@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vanessa</h1>
+<h1>$ whoami</h1>
 
 - 🔭 Working on Azure Container Networking
 - 🌱 Pursing a Masters of Computer Science at Georgia Tech
