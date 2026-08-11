@@ -2,7 +2,6 @@
 
 - 🔭 Working on Azure Container Networking
 - 🌱 Pursing a Masters of Computer Science at Georgia Tech
-- :video_game: Current course: Video Game Design
-- 🛜 Next course: Computer Networks 
-
+- 🛜 Current course: Computer Networks
+- Next course: TBD 
 
